@@ -1,0 +1,55 @@
+example file ndc5k; err=        3, part num=        0, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        0, part num=        1, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        7, part num=        2, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        1, part num=        3, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        3, part num=        4, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        1, part num=        5, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        9, part num=        6, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        4, part num=        7, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=       14, part num=        8, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=       12, part num=        9, mu=        1, c1=    1e-05, c2=    1e-05
+example no: ndc5k	 avgerr: 54	 mu=1	 c1=1e-05	 c2=1e-05
+example file ndc5k; err=        3, part num=        0, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        3, part num=        1, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        1, part num=        2, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        2, part num=        3, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        3, part num=        4, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        2, part num=        5, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        5, part num=        6, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        6, part num=        7, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        9, part num=        8, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=       12, part num=        9, mu=        1, c1=    1e-05, c2=    1e-05
+example no: ndc5k	 avgerr: 46	 mu=1	 c1=1e-05	 c2=1e-05
+example file ndc5k; err=        1, part num=        0, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        4, part num=        1, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        4, part num=        2, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        2, part num=        3, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        3, part num=        4, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        2, part num=        5, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        9, part num=        6, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=       15, part num=        7, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=       14, part num=        8, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc5k; err=        8, part num=        9, mu=        1, c1=    1e-05, c2=    1e-05
+example no: ndc5k	 avgerr: 62	 mu=1	 c1=1e-05	 c2=1e-05
+example file ndc10k; err=        2, part num=        0, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        2, part num=        1, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        2, part num=        2, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        1, part num=        3, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        1, part num=        4, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        2, part num=        5, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=       11, part num=        6, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=       13, part num=        7, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        8, part num=        8, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        9, part num=        9, mu=        1, c1=    1e-05, c2=    1e-05
+example no: ndc10k	 avgerr: 51	 mu=1	 c1=1e-05	 c2=1e-05
+example file ndc10k; err=        2, part num=        0, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        2, part num=        1, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        1, part num=        2, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        4, part num=        3, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        5, part num=        4, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        0, part num=        5, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        8, part num=        6, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        6, part num=        7, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=       12, part num=        8, mu=        1, c1=    1e-05, c2=    1e-05
+example file ndc10k; err=        8, part num=        9, mu=        1, c1=    1e-05, c2=    1e-05
+example no: ndc10k	 avgerr: 48	 mu=1	 c1=1e-05	 c2=1e-05

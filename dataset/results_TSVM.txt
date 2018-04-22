@@ -1,0 +1,6 @@
+example file: ndc5k;ratio =      0.1, err =       63 of 500,mu=        1,c1 =    1e-05,c2 =    1e-05
+example file: ndc5k;ratio =      0.1, err =       97 of 500,mu=        1,c1 =    1e-05,c2 =    1e-05
+example file: ndc5k;ratio =      0.1, err =       69 of 500,mu=        1,c1 =    1e-05,c2 =    1e-05
+example file: ndc5k;ratio =      0.1, err =       56 of 500,mu=        1,c1 =    1e-05,c2 =    1e-05
+example file: ndc10k;ratio =      0.1, err =       62 of 1000,mu=        1,c1 =    1e-05,c2 =    1e-05
+example file: ndc10k;ratio =      0.1, err =       51 of 1000,mu=        1,c1 =    1e-05,c2 =    1e-05
